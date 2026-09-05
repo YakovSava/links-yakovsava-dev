@@ -1,0 +1,32 @@
+{
+  "siteTitle": "Zivela Srbia links",
+  "links": [
+    {
+      "id": "about",
+      "title": "About me",
+      "description": "Hi everyone! I'm a Zivela Srbia. My arts is AI, yes",
+      "url": "#",
+      "tag": "",
+      "image": "",
+      "color": "#ff2d55"
+    },
+    {
+      "id": "boosty",
+      "title": "Boosty",
+      "description": "Did u want NSFW content? Sorry, i really need money. Only NSFW, no another arts",
+      "url": "https://boosty.to/kasanemiku",
+      "tag": "",
+      "image": "",
+      "color": "#7c3aed"
+    },
+    {
+      "id": "telegram",
+      "title": "Telegram",
+      "description": "Telegram-channel about me, arts, some free NSFW and more!",
+      "url": "https://t.me/+UFvIFcnyqlM5ZWFi",
+      "tag": "",
+      "image": "",
+      "color": "#0ea5e9"
+    }
+  ]
+}
