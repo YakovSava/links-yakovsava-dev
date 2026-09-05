@@ -73,7 +73,7 @@ function App() {
             key={index}
             className={`dot ${index === activeIndex ? "active" : ""}`}
             onClick={() => scrollToIndex(index)}
-            aria-label={`Перейти к ссылке ${index + 1}`}
+            aria-label={`Go to link ${index + 1}`}
           />
         ))}
       </div>

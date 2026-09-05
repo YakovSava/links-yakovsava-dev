@@ -22,7 +22,7 @@ function LinkCard({ link, index, total }) {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Открыть ссылку
+          Open link
         </a>
       </div>
     </section>

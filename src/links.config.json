@@ -7,7 +7,7 @@
       "description": "Hi everyone! I'm a Zivela Srbia. My arts is AI, yes",
       "url": "#",
       "tag": "",
-      "image": "",
+      "image": "/images/about.webp",
       "color": "#ff2d55"
     },
     {
@@ -16,7 +16,7 @@
       "description": "Did u want NSFW content? Sorry, i really need money. Only NSFW, no another arts",
       "url": "https://boosty.to/kasanemiku",
       "tag": "",
-      "image": "",
+      "image": "/images/boosty.webp",
       "color": "#7c3aed"
     },
     {
@@ -25,8 +25,17 @@
       "description": "Telegram-channel about me, arts, some free NSFW and more!",
       "url": "https://t.me/+UFvIFcnyqlM5ZWFi",
       "tag": "",
-      "image": "",
+      "image": "/images/telegram.webp",
       "color": "#0ea5e9"
+    },
+    {
+      "id": "twitter",
+      "title": "X (ex Twitter)",
+      "description": "I haven't created it yet, but I will very soon! Wait!",
+      "url": "#",
+      "tag": "",
+      "image": "/images/twitter.webp",
+      "color": "#0da5e9"
     }
   ]
 }
