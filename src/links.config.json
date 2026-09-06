@@ -31,10 +31,37 @@
     {
       "id": "twitter",
       "title": "X (ex Twitter)",
-      "description": "I haven't created it yet, but I will very soon! Wait!",
-      "url": "#",
+      "description": "Account about me, arts, some free NSFW and more!",
+      "url": "https://x.com/zivelasrbia",
       "tag": "",
       "image": "/images/twitter.webp",
+      "color": "#0da5e9"
+    },
+    {
+      "id": "threads",
+      "title": "Threads",
+      "description": "Account about me, arts, some free NSFW and more!",
+      "url": "https://www.threads.com/@zivelasrbia",
+      "tag": "",
+      "image": "/images/threads.webp",
+      "color": "#0da5e9"
+    },
+    {
+      "id": "facebook",
+      "title": "Facebook",
+      "description": "Account about me, arts and more!",
+      "url": "https://www.facebook.com/profile.php?id=61571919351840",
+      "tag": "",
+      "image": "/images/threads.webp",
+      "color": "#0da5e9"
+    },
+    {
+      "id": "instagram",
+      "title": "Instagram",
+      "description": "Account about me, arts and more!",
+      "url": "https://www.instagram.com/zivelasrbia?stkn=OWF4MHNlbGtrYTd0",
+      "tag": "",
+      "image": "/images/instagram.webp",
       "color": "#0da5e9"
     }
   ]
