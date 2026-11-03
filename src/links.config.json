@@ -11,13 +11,13 @@
       "color": "#ff2d55"
     },
     {
-      "id": "boosty",
-      "title": "Boosty",
-      "description": "Did u want NSFW content? Sorry, i really need money. Only NSFW, no another arts",
-      "url": "https://boosty.to/kasanemiku",
+      "id": "sendmoney",
+      "title": "Support me",
+      "description": "Perhaps you’d like to support me? I would appreciate your support, and it would help me create more high-quality content!",
+      "url": "https://dalink.to/yakovsava",
       "tag": "",
-      "image": "/images/boosty.webp",
-      "color": "#7c3aed"
+      "image": "/images/dination1.webp",
+      "color": "#0da5e9"
     },
     {
       "id": "telegram",
@@ -62,6 +62,24 @@
       "url": "https://www.instagram.com/zivelasrbia?stkn=OWF4MHNlbGtrYTd0",
       "tag": "",
       "image": "/images/instagram.webp",
+      "color": "#0da5e9"
+    },
+    {
+      "id": "rule34",
+      "title": "Rule 34?",
+      "description": "Yes!!! Boosty has been blocked, I make it free!",
+      "url": "https://rule34.xxx/index.php?page=post&s=list&tags=user:kasanemiku7",
+      "tag": "",
+      "image": "/images/boosty.webp",
+      "color": "#0da5e9"
+    },
+    {
+      "id": "sendmoney",
+      "title": "Support me",
+      "description": "Perhaps you’d like to support me? I would appreciate your support, and it would help me create more high-quality content!",
+      "url": "https://dalink.to/yakovsava",
+      "tag": "",
+      "image": "/images/donation2.webp",
       "color": "#0da5e9"
     }
   ]
